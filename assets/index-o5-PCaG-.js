@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-OnA1lD-I.js","assets/index-3y5R6DZt.js","assets/index-BzBkS4v5.css"])))=>i.map(i=>d[i]);
+import{r as a,_ as e}from"./index-3y5R6DZt.js";var t;(function(r){r.WHITE="#FFFFFF",r.BLACK="#000000",r.TRANSPARENT="transparent"})(t||(t={}));const n=a("NavigationBar",{web:()=>e(()=>import("./web-OnA1lD-I.js"),__vite__mapDeps([0,1,2])).then(r=>new r.NavigationBarWeb)});export{n as NavigationBar,t as NavigationBarColor};
